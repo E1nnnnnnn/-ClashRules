@@ -1,0 +1,2 @@
+rules:
+- DOMAIN,line.xmsl.org,DIRECT
