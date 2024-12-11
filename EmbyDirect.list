@@ -1,5 +1,5 @@
 #Emby
-- DOMAIN,line.xmsl.org,
-- DOMAIN,cn-music.mefun.vip
-- DOMAIN,sptv.ii00.cc
-- DOMAIN,sgtv.ii00.cc
+- DOMAIN-SUFFIX,line.xmsl.org,
+- DOMAIN-SUFFIX,cn-music.mefun.vip
+- DOMAIN-SUFFIX,sptv.ii00.cc
+- DOMAIN-SUFFIX,sgtv.ii00.cc
