@@ -1,5 +1,5 @@
-line.xmsl.org
-sgtv.ii00.cc
-sptv.ii00.cc
-154.17.232.92
-cn-music.mefun.vip
+DOMAIN-SUFFIX,line.xmsl.org
+DOMAIN-SUFFIX,sgtv.ii00.cc
+DOMAIN-SUFFIX,sptv.ii00.cc
+IP-CIDR,154.17.232.92
+DOMAIN-SUFFIX,cn-music.mefun.vip
